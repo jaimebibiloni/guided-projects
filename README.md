@@ -1,6 +1,6 @@
 # guided-projects
 
-This repository hosts some of the projects I made while studying the Data Analysis path on [Dataquest](https://app.dataquest.io/) during 2020:
+This repository hosts some of the projects I made while studying the Data Analysis path on [Dataquest.io](https://app.dataquest.io/) during 2020:
 
 - [Guided Project - Star Wars Survey](https://github.com/jaimebibiloni/guided-projects/blob/master/Star%20Wars%20Saga:%20Revealing%20fan's%20favorites.ipynb)
 
