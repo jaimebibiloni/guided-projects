@@ -1,1 +1,6 @@
-# starwars-survey
+# guided-projects
+
+This repository hosts some of the projects I made while studying the Data Analysis path on [Dataquest](https://app.dataquest.io/).
+Although I wrote all the code, explanations, and conclusions, these projects were guided by Dataquest's learning platform, meaning that I executed conceptual instructions that led me to analyze different sets of data by using coding techniques I had previously learnt. 
+
+The goals of the projects and the way of approaching each challenge did not steam from my own thinking but were given to me instead as a guide. As a result, **these projects are a good demonstration of my data analysis Python skills** but are not the best example of my holistic analysis capabilities.
