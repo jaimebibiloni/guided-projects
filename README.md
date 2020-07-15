@@ -1,6 +1,8 @@
 # guided-projects
 
-This repository hosts some of the projects I made while studying the Data Analysis path on [Dataquest](https://app.dataquest.io/) during 2020.
+This repository hosts some of the projects I made while studying the Data Analysis path on [Dataquest](https://app.dataquest.io/) during 2020:
+
+- [Guided Project - Star Wars Survey](https://github.com/jaimebibiloni/guided-projects/commit/9be9e2adfdd16bef64ae9c7463e28b78439cf80e)
 
 Although I wrote all the code, explanations, and conclusions, these projects were guided by Dataquest's learning platform, meaning that I executed conceptual instructions that led me to analyze different sets of data by using coding techniques I had previously learnt. 
 
