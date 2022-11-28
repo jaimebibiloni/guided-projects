@@ -6,6 +6,9 @@ This repository hosts some of the projects I made while studying the Data Analys
 
 - [Guided Project: Visualizing the gender gap in college degrees](https://github.com/jaimebibiloni/guided-projects/blob/master/Visualizing%20the%20gender%20gap%20in%20college%20degrees.ipynb)
 
+- [Guided Project: Mobile app for lottery addiction](https://github.com/jaimebibiloni/guided-projects/blob/master/Mobile%20app%20for%20lottery%20addiction.ipynb)
+
+
 The projects are written as Jupyter Notebooks using Python.
 
 Although I wrote all the code, explanations, and conclusions, these projects were guided by Dataquest's learning platform, meaning that I executed conceptual instructions that led me to analyze different sets of data by using coding techniques I had previously learnt. 
