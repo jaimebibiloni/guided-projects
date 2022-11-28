@@ -2,7 +2,7 @@
 
 This repository hosts some of the projects I made while studying the Data Analyst in Python path on [Dataquest.io](https://app.dataquest.io/):
 
-- [Guided Project - Star Wars Survey](https://github.com/jaimebibiloni/guided-projects/blob/master/Star%20Wars%20Saga:%20Revealing%20fan's%20favorites.ipynb)
+- [Guided Project: Star Wars Survey](https://github.com/jaimebibiloni/guided-projects/blob/master/Star%20Wars%20Saga:%20Revealing%20fan's%20favorites.ipynb)
 
 - [Guided Project: Visualizing the gender gap in college degrees](https://github.com/jaimebibiloni/guided-projects/blob/master/Visualizing%20the%20gender%20gap%20in%20college%20degrees.ipynb)
 
